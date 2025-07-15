@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "685564625627",
+    "project_id": "app001-be5a6",
+    "storage_bucket": "app001-be5a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685564625627:android:a0327a3c895903d14682fe",
+        "android_client_info": {
+          "package_name": "com.nirvasoft.app001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685564625627-hu4q5cpmto2f7itn6hhffcb0a48isgav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPimZcexc9YivcJ1GBwSv8kP7gmLG0vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685564625627-hu4q5cpmto2f7itn6hhffcb0a48isgav.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685564625627-6920iffqnn4u3ehvni2hbk87q5n20ltp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nirvasoft.app001"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685564625627:android:b5ac7d59f249778c4682fe",
+        "android_client_info": {
+          "package_name": "com.nirvasoft.app001.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685564625627-topdhbuuj3k2mquhm5d5hoaqu61l02qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nirvasoft.app001.dev",
+            "certificate_hash": "6c993f67fd67a7dc8b896061396fd39b2d638990"
+          }
+        },
+        {
+          "client_id": "685564625627-hu4q5cpmto2f7itn6hhffcb0a48isgav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPimZcexc9YivcJ1GBwSv8kP7gmLG0vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685564625627-hu4q5cpmto2f7itn6hhffcb0a48isgav.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685564625627-6920iffqnn4u3ehvni2hbk87q5n20ltp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nirvasoft.app001"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685564625627:android:da3b574005f25d0d4682fe",
+        "android_client_info": {
+          "package_name": "com.nirvasoft.app001.sit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685564625627-hu4q5cpmto2f7itn6hhffcb0a48isgav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPimZcexc9YivcJ1GBwSv8kP7gmLG0vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685564625627-hu4q5cpmto2f7itn6hhffcb0a48isgav.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685564625627-6920iffqnn4u3ehvni2hbk87q5n20ltp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nirvasoft.app001"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685564625627:android:5a5e1bbb49739b074682fe",
+        "android_client_info": {
+          "package_name": "com.nirvasoft.app001.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685564625627-hu4q5cpmto2f7itn6hhffcb0a48isgav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUPimZcexc9YivcJ1GBwSv8kP7gmLG0vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685564625627-hu4q5cpmto2f7itn6hhffcb0a48isgav.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "685564625627-6920iffqnn4u3ehvni2hbk87q5n20ltp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nirvasoft.app001"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
